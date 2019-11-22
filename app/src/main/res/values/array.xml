@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="fruits">
+        <item>蘋果</item>
+        <item>柳丁</item>
+        <item>水蜜桃</item>
+        <item>奇異果</item>
+        <item>葡萄</item>
+        <item>鳳梨</item>
+    </array>
+
+</resources>
